@@ -1,0 +1,9 @@
+{
+	"name": "SpacePlanner",
+	"version": "0.0.1",
+	"factorio_version": "0.16",
+	"title": "Space Planner",
+	"author": "Steve Phillips",
+	"description": "Lay out a portion of a factory using free parts.",
+	"dependencies": ["base >= 0.16.0"]
+}
