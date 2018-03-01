@@ -8,7 +8,7 @@ function define_layoutblock(name, size)
 	local size_px = size / 64
 	local result = 
 	{
-		type = "container",
+		type = "simple-entity",
 		name = "layoutblock-" .. name,
 		icon = "__SpacePlanner__/graphics/icons/layoutblock-" .. name .. ".png",
 		icon_size = 32,
@@ -19,7 +19,6 @@ function define_layoutblock(name, size)
 		selection_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		drawing_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		scale_info_icons = true,
-		inventory_size = 1,
 		picture =
 		{
 			filename = "__SpacePlanner__/graphics/entity/layoutblock-" .. name .. ".png",
