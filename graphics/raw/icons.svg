@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="212.79954"
-     inkscape:cy="165.27965"
+     inkscape:zoom="3.959798"
+     inkscape:cx="578.84377"
+     inkscape:cy="68.785375"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4699"
+     inkscape:current-layer="g4791-6-6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -196,6 +196,58 @@
              x="1.4936547"
              y="279.09293"
              style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:start;text-anchor:start;stroke-width:0.26458332">L</tspan></text>
+      </g>
+      <g
+         transform="translate(95.982,0.01770592)"
+         id="g4851-4"
+         inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-md.png"
+         inkscape:export-xdpi="25.428135"
+         inkscape:export-ydpi="25.428135">
+        <g
+           transform="translate(48.000297)"
+           inkscape:export-ydpi="25.428135"
+           inkscape:export-xdpi="25.428135"
+           inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
+           id="g4791-6-6">
+          <g
+             inkscape:export-ydpi="25.428135"
+             inkscape:export-xdpi="25.428135"
+             inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
+             id="g4494-7-6">
+            <rect
+               style="opacity:1;vector-effect:none;fill:#6098ff;fill-opacity:0.50196078;stroke:#0059fd;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect4485-5-1"
+               width="31.464594"
+               height="31.464594"
+               x="0.26770315"
+               y="265.2677" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:1.80000007;stroke-opacity:1"
+               d="m 16,265.79368 v 30.41263"
+               id="path4487-6-8"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+               d="M 0.79367362,281 H 31.206326"
+               id="path4489-3-2"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <rect
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1"
+             id="rect4549"
+             width="5.5458426"
+             height="19.711107"
+             x="22.526608"
+             y="271.05713" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1"
+             d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
+             id="rect4551"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+        </g>
       </g>
     </g>
   </g>

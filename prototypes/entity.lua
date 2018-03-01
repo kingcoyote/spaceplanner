@@ -32,10 +32,41 @@ function define_layoutblock(name, size)
 	return result;
 end
 
+function define_layoutentity(name, group)
+	local size_px = 0.5
+	local result = 
+	{
+		type = "simple-entity",
+		name = name,
+		icon = "__SpacePlanner__/graphics/icons/" .. name .. ".png",
+		icon_size = 32,
+		flags = {"placeable-neutral", "placeable-player", "player-creation"},
+		minable = {mining_time = 0.01},
+		max_health = 1,
+		collision_box = {{-0.49, -0.49}, {0.49, 0.49}},
+		selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
+		drawing_box = {{-0.5, -0.5}, {0.5, 0.5}},
+		scale_info_icons = true,
+		fast_replaceable_group = group,
+		picture =
+		{
+			filename = "__SpacePlanner__/graphics/entity/" .. name .. ".png",
+			priority = "low",
+			width = 32,
+			height = 32,
+			shift = {0, 0},
+		},
+	};
+
+	return result;
+end
+
 data:extend(
 {
 	define_layoutblock("sm", 32),
 	define_layoutblock("md", 64),
 	define_layoutblock("lg", 96),
+	define_layoutentity("layoutinserter", "inserter"),
+	define_layoutentity("layoutbelt", "transportbelt"),
 })
 
