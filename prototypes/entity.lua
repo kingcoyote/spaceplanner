@@ -8,7 +8,7 @@ function define_layoutblock(name, size)
 	local size_px = size / 64
 	local result = 
 	{
-		type = "simple-entity",
+		type = "corpse",
 		name = "layoutblock-" .. name,
 		icon = "__SpacePlanner__/graphics/icons/layoutblock-" .. name .. ".png",
 		icon_size = 32,
@@ -19,13 +19,17 @@ function define_layoutblock(name, size)
 		selection_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		drawing_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		scale_info_icons = true,
-		picture =
+		final_render_layer = "remnants",
+		time_before_removed = 60 * 60 * 60 * 3600, -- 3600 hours
+		animation = 
 		{
+		  {
+			frame_count = 1,
+			direction_count = 1,
 			filename = "__SpacePlanner__/graphics/entity/layoutblock-" .. name .. ".png",
-			priority = "low",
 			width = size,
 			height = size,
-			shift = {0, 0},
+		  }
 		},
 	};
 
@@ -36,7 +40,7 @@ function define_layoutentity(name, group)
 	local size_px = 0.5
 	local result = 
 	{
-		type = "simple-entity",
+		type = "corpse",
 		name = name,
 		icon = "__SpacePlanner__/graphics/icons/" .. name .. ".png",
 		icon_size = 32,
@@ -47,14 +51,29 @@ function define_layoutentity(name, group)
 		selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
 		drawing_box = {{-0.5, -0.5}, {0.5, 0.5}},
 		scale_info_icons = true,
-		fast_replaceable_group = group,
-		picture =
-		{
+		
+		-- simple-entity settings
+		collision_mask = { "item-layer" },
+		picture = {
+			direction_count = 1,
 			filename = "__SpacePlanner__/graphics/entity/" .. name .. ".png",
-			priority = "low",
 			width = 32,
 			height = 32,
 			shift = {0, 0},
+		},
+		
+		-- corpse entity settings
+		final_render_layer = "remnants",
+		time_before_removed = 60 * 60 * 60 * 3600, -- 3600 hours,
+		animation = 
+		{
+		  {
+			frame_count = 1,
+			direction_count = 1,
+			filename = "__SpacePlanner__/graphics/entity/" .. name .. ".png",
+			width = 32,
+			height = 32,
+		  }
 		},
 	};
 
@@ -67,6 +86,6 @@ data:extend(
 	define_layoutblock("md", 64),
 	define_layoutblock("lg", 96),
 	define_layoutentity("layoutinserter", "inserter"),
-	define_layoutentity("layoutbelt", "transportbelt"),
+	define_layoutentity("layoutbelt", "transport-belt"),
 })
 
