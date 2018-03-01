@@ -4,7 +4,7 @@
  * See License.txt in the project directory for license information.
 --]]
 
-function define_layoutblock(name)
+function define_layoutblock(name, order)
 	local result = 
 	{
 		type = "item",
@@ -12,8 +12,7 @@ function define_layoutblock(name)
 		icon = "__SpacePlanner__/graphics/icons/layoutblock-" .. name .. ".png",
 		icon_size = 32,
 		flags = {"goes-to-quickbar"},
-		subgroup = "storage",
-		order = "a[items]-c[spaceplanner]",
+		order = "a[items]-c[spaceplanner" .. order .. "]",
 		place_result = "layoutblock-" .. name,
 		stack_size = 10000
 	};
@@ -23,7 +22,7 @@ end
 
 data:extend(
 {
-	define_layoutblock("sm"),
-	define_layoutblock("md"),
-	define_layoutblock("lg"),
+	define_layoutblock("sm", 1),
+	define_layoutblock("md", 2),
+	define_layoutblock("lg", 3),
 })
