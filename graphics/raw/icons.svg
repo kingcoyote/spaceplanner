@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="578.84377"
-     inkscape:cy="68.785375"
+     inkscape:zoom="2.8"
+     inkscape:cx="136.48811"
+     inkscape:cy="196.62036"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4791-6-6"
+     inkscape:current-layer="g4564-0"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -210,43 +210,120 @@
            inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
            id="g4791-6-6">
           <g
-             inkscape:export-ydpi="25.428135"
+             id="g4564"
+             inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.1\graphics\icons\layoutinserter.png"
              inkscape:export-xdpi="25.428135"
-             inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
-             id="g4494-7-6">
+             inkscape:export-ydpi="25.428135">
+            <g
+               id="g4494-7-6"
+               inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
+               inkscape:export-xdpi="25.428135"
+               inkscape:export-ydpi="25.428135">
+              <rect
+                 y="265.2677"
+                 x="0.26770315"
+                 height="31.464594"
+                 width="31.464594"
+                 id="rect4485-5-1"
+                 style="opacity:1;vector-effect:none;fill:#6098ff;fill-opacity:0.50196078;stroke:#0059fd;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="cc"
+                 inkscape:connector-curvature="0"
+                 id="path4487-6-8"
+                 d="m 16,265.79368 v 30.41263"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:1.80000007;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="cc"
+                 inkscape:connector-curvature="0"
+                 id="path4489-3-2"
+                 d="M 0.79367362,281 H 31.206326"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1" />
+            </g>
             <rect
-               style="opacity:1;vector-effect:none;fill:#6098ff;fill-opacity:0.50196078;stroke:#0059fd;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect4485-5-1"
-               width="31.464594"
-               height="31.464594"
-               x="0.26770315"
-               y="265.2677" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:1.80000007;stroke-opacity:1"
-               d="m 16,265.79368 v 30.41263"
-               id="path4487-6-8"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cc" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
-               d="M 0.79367362,281 H 31.206326"
-               id="path4489-3-2"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cc" />
+               y="271.05713"
+               x="22.526608"
+               height="19.711107"
+               width="5.5458426"
+               id="rect4549"
+               style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1" />
+            <g
+               id="g4555">
+              <path
+                 style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1"
+                 d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
+                 id="rect4551"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccc" />
+            </g>
           </g>
-          <rect
-             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1"
-             id="rect4549"
-             width="5.5458426"
-             height="19.711107"
-             x="22.526608"
-             y="271.05713" />
-          <path
-             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1"
-             d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
-             id="rect4551"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccc" />
+          <g
+             transform="translate(-144,-48)"
+             id="g4564-0"
+             inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.1\graphics\icons\layoutinserter.png"
+             inkscape:export-xdpi="25.428135"
+             inkscape:export-ydpi="25.428135">
+            <g
+               id="g5256"
+               inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.1\graphics\icons\layoutbelt.png"
+               inkscape:export-xdpi="25.428135"
+               inkscape:export-ydpi="25.428135">
+              <g
+                 inkscape:export-ydpi="25.428135"
+                 inkscape:export-xdpi="25.428135"
+                 inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\icons\layoutblock-sm.png"
+                 id="g4494-7-6-1">
+                <rect
+                   style="opacity:1;vector-effect:none;fill:#6098ff;fill-opacity:0.50196078;stroke:#0059fd;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4485-5-1-5"
+                   width="31.464594"
+                   height="31.464594"
+                   x="0.26770315"
+                   y="265.2677" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:1.80000007;stroke-opacity:1"
+                   d="m 16,265.79368 v 30.41263"
+                   id="path4487-6-8-1"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+                <path
+                   style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                   d="M 0.79367362,281 H 31.206326"
+                   id="path4489-3-2-0"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="cc" />
+              </g>
+              <g
+                 transform="matrix(0.48175052,0,0,0.48175052,0.93129183,145.69154)"
+                 id="g4555-5">
+                <path
+                   sodipodi:nodetypes="cccc"
+                   inkscape:connector-curvature="0"
+                   id="rect4551-6"
+                   d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
+                   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1" />
+              </g>
+              <g
+                 transform="matrix(0.48175052,0,0,0.48175052,9.6497615,145.69154)"
+                 id="g4555-5-6">
+                <path
+                   sodipodi:nodetypes="cccc"
+                   inkscape:connector-curvature="0"
+                   id="rect4551-6-5"
+                   d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
+                   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1" />
+              </g>
+              <g
+                 transform="matrix(0.48175052,0,0,0.48175052,18.368232,145.69154)"
+                 id="g4555-5-6-3">
+                <path
+                   sodipodi:nodetypes="cccc"
+                   inkscape:connector-curvature="0"
+                   id="rect4551-6-5-1"
+                   d="m 20.789354,270.99033 v 19.84479 l -15.5016328,-9.9224 z"
+                   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 2.00000003;stroke-dashoffset:3.21259856;stroke-opacity:1" />
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>
