@@ -15,7 +15,7 @@ function define_layoutblock(name, size)
 		flags = {"placeable-neutral", "placeable-player", "player-creation"},
 		minable = {mining_time = 0.01},
 		max_health = 1,
-		collision_box = {{-0.1, -0.1}, {0.1, 0.1}},
+		collision_box = {{0 - size_px * 0.99, 0 - size_px  * 0.99}, {0 + size_px * 0.99, 0 + size_px  * 0.99}},
 		selection_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		drawing_box = {{0 - size_px, 0 - size_px}, {0 + size_px, 0 + size_px}},
 		scale_info_icons = true,
