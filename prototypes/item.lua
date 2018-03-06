@@ -4,6 +4,16 @@
  * See License.txt in the project directory for license information.
 --]]
 
+-- Add new subgroup for basic floorings
+data:extend({
+	{
+		type = "item-subgroup",
+		name = "spaceplanner",
+		group = "production",
+		order = "i-b"
+	}
+})
+
 function define_layoutitem(name, order)
 	local result = 
 	{
@@ -14,7 +24,8 @@ function define_layoutitem(name, order)
 		flags = {"goes-to-quickbar"},
 		order = "a[items]-c[spaceplanner" .. order .. "]",
 		place_result = name,
-		stack_size = 10000
+		stack_size = 10000,
+		subgroup="spaceplanner",
 	};
 
 	return result;

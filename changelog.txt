@@ -1,10 +1,11 @@
 SpacePlanner by Steve Phillips (kingcoyote)
 ===============================================================================
 
-0.0.2 (development)
+0.0.2 (2018-03-06)
 -------------------------------------------------------------------------------
  - Fixed a bug where some entities could stack.
  - Added train layout.
+ - Moved SpacePlanner items to the production tab.
 
 0.0.1 (2018-03-05)
 -------------------------------------------------------------------------------
