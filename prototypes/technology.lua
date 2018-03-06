@@ -18,6 +18,7 @@ data:extend(
 			{ type = "unlock-recipe", recipe = "layoutblock-lg" },
 			{ type = "unlock-recipe", recipe = "layoutinserter" },
 			{ type = "unlock-recipe", recipe = "layoutbelt" },
+			{ type = "unlock-recipe", recipe = "layouttrain" },
 		},
 		prerequisites = {},
 		unit =

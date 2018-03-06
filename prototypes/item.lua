@@ -29,4 +29,5 @@ data:extend(
 	define_layoutitem("layoutblock-lg", 1),
 	define_layoutitem("layoutinserter", 4),
 	define_layoutitem("layoutbelt", 5),
+	define_layoutitem("layouttrain", 6),
 })

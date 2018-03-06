@@ -4,52 +4,18 @@
  * See License.txt in the project directory for license information.
 --]]
 
-function define_layoutblock(name)
+function define_layoutrecipe(name)
 	local result = 
 	{
 		type = "recipe",
-		name = "layoutblock-" .. name,
+		name = name,
 		enabled = "false",
 		energy_required=0.01,
 		ingredients = 
 		{
 
 		},
-		results = {{type="item", name="layoutblock-" .. name, amount=100}}
-	};
-
-	return result;
-end
-
-function define_layoutbelt()
-	local result = 
-	{
-		type = "recipe",
-		name = "layoutbelt",
-		enabled = "false",
-		energy_required=0.01,
-		ingredients = 
-		{
-
-		},
-		results = {{type="item", name="layoutbelt", amount=100}}
-	};
-
-	return result;
-end
-
-function define_layoutinserter()
-	local result = 
-	{
-		type = "recipe",
-		name = "layoutinserter",
-		enabled = "false",
-		energy_required=0.01,
-		ingredients = 
-		{
-
-		},
-		results = {{type="item", name="layoutinserter", amount=100}}
+		results = {{type="item", name=name, amount=100}}
 	};
 
 	return result;
@@ -57,9 +23,10 @@ end
 
 data:extend(
 {
-	define_layoutblock("sm"),
-	define_layoutblock("md"),
-	define_layoutblock("lg"),
-	define_layoutinserter(),
-	define_layoutbelt(),
+	define_layoutrecipe("layoutblock-sm"),
+	define_layoutrecipe("layoutblock-md"),
+	define_layoutrecipe("layoutblock-lg"),
+	define_layoutrecipe("layoutbelt"),
+	define_layoutrecipe("layoutinserter"),
+	define_layoutrecipe("layouttrain"),
 })
