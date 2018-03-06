@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="386.62457"
-     inkscape:cy="405.66702"
+     inkscape:cx="862.91739"
+     inkscape:cy="515.71358"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,15 @@
      inkscape:window-height="1017"
      inkscape:window-x="1592"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="100.22607,245.88797"
+       orientation="1,0"
+       id="guide4628"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,7 +65,7 @@
      id="layer1">
     <g
        id="g4494"
-       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\entity\layoutblock-sm.png"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-sm.png"
        inkscape:export-xdpi="25.428135"
        inkscape:export-ydpi="25.428135">
       <rect
@@ -82,9 +90,9 @@
     </g>
     <g
        id="g4553"
-       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\entity\layoutblock-md.png"
-       inkscape:export-xdpi="25.428135"
-       inkscape:export-ydpi="25.428135">
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-md.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4">
       <rect
          y="233.26471"
          x="100.25"
@@ -131,7 +139,7 @@
     </g>
     <g
        id="g4683"
-       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\spaceplanner_0.0.1\graphics\entity\layoutblock-lg.png"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-lg.png"
        inkscape:export-xdpi="25.264578"
        inkscape:export-ydpi="25.264578">
       <rect
@@ -382,6 +390,200 @@
              sodipodi:nodetypes="cccc" />
         </g>
       </g>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fefefe;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9,3;stroke-dashoffset:19.27558899;stroke-opacity:1"
+       id="rect4537"
+       width="82.853546"
+       height="81.517204"
+       x="6.6817379"
+       y="108.84225"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-lg.png"
+       inkscape:export-xdpi="25.264578"
+       inkscape:export-ydpi="25.264578" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.00000023, 5.00000008;stroke-dashoffset:121.42102814;stroke-opacity:1"
+       id="rect4539"
+       width="58.532021"
+       height="58.799328"
+       x="18.441599"
+       y="119.80032"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-lg.png"
+       inkscape:export-xdpi="25.264578"
+       inkscape:export-ydpi="25.264578" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fefefe;stroke-width:1.80464709;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.41394148, 1.80464716;stroke-dashoffset:19.27558899;stroke-opacity:1"
+       id="rect4537-2"
+       width="49.840477"
+       height="49.036598"
+       x="107.37817"
+       y="240.40935"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-md.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.00774527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.02323594, 3.00774531;stroke-dashoffset:121.42102814;stroke-opacity:1"
+       id="rect4539-7"
+       width="35.209881"
+       height="35.370682"
+       x="114.4523"
+       y="247.00117"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-md.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87138236;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.61414704, 1.87138234;stroke-dashoffset:121.42102814;stroke-opacity:1"
+       id="rect4539-7-8"
+       width="21.907158"
+       height="22.007206"
+       x="4.8457007"
+       y="269.69296"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-sm.png"
+       inkscape:export-xdpi="25.428135"
+       inkscape:export-ydpi="25.428135" />
+    <g
+       id="g4756"
+       transform="matrix(1.0045398,0,0,0.98565439,-0.56788111,2.7309887)"
+       inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layouttrain.png"
+       inkscape:export-xdpi="25.428219"
+       inkscape:export-ydpi="25.428219">
+      <rect
+         y="125.85734"
+         x="124.81487"
+         height="64.427856"
+         width="222.4924"
+         id="rect4496-7-0"
+         style="opacity:1;vector-effect:none;fill:#6098ff;fill-opacity:0.50196078;stroke:#0059fd;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.8031497;stroke-opacity:1" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000017, 3.00000008;stroke-dashoffset:0.97500002;stroke-opacity:1"
+         d="m 158.25244,126.79661 v 62.39792"
+         id="path4487-9-9-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:1.05000007;stroke-opacity:1"
+         d="M 142.25244,126.26744 V 189.7237"
+         id="path4487-2-59-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:0.85000002;stroke-opacity:1"
+         d="M 174.25244,126.79661 V 189.7237"
+         id="path4487-6-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000023, 3.00000011;stroke-dashoffset:2.70000005;stroke-opacity:1"
+         d="M 346.34202,157.7237 H 126.78161"
+         id="path4487-9-6-7-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000005, 2.0000001;stroke-dashoffset:1.80000007;stroke-opacity:1"
+         d="M 346.87119,141.7237 H 126.25244"
+         id="path4487-2-5-1-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000005, 2.0000001;stroke-dashoffset:1.80000007;stroke-opacity:1"
+         d="M 346.87119,173.7237 H 126.25244"
+         id="path4487-6-7-8-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000023, 3.00000011;stroke-dashoffset:0.97500002;stroke-opacity:1"
+         d="m 190.25244,126.79661 v 62.39792"
+         id="path4487-9-9-5-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#6098ff;fill-opacity:0.50196078;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000004, 2.00000008;stroke-dashoffset:0.85000002;stroke-opacity:1"
+         d="M 206.25244,126.79661 V 189.7237"
+         id="path4487-6-5-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-0-7"
+         d="m 158.25244,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000023, 3.00000011;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-2-8"
+         d="M 174.25244,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000004, 2.00000008;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-5-1-4"
+         d="m 190.25244,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.0000003, 3.00000014;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-5-2-7"
+         d="M 206.25244,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000005, 2.0000001;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-0-6"
+         d="m 222.2528,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000023, 3.00000011;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-2-9"
+         d="M 238.2528,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000004, 2.00000008;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-5-1-2"
+         d="m 254.2528,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.0000003, 3.00000014;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-5-2-5"
+         d="M 270.2528,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000005, 2.0000001;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-0-6-1"
+         d="m 286.2528,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.0000003, 3.00000014;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-2-9-2"
+         d="M 302.2528,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000005, 2.0000001;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-9-9-5-1-2-4"
+         d="m 318.2528,126.79661 v 62.39792"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.00000036, 3.00000017;stroke-dashoffset:0.97500002;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4487-6-5-5-2-5-5"
+         d="M 334.2528,126.79661 V 189.7237"
+         style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000006, 2.00000012;stroke-dashoffset:0.85000002;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="25.264578"
+         inkscape:export-xdpi="25.264578"
+         inkscape:export-filename="C:\Users\sphillips\AppData\Roaming\Factorio\mods\SpacePlanner_0.0.2\graphics\entity\layoutblock-lg.png"
+         y="130.09021"
+         x="163.03441"
+         height="55.324921"
+         width="179.33788"
+         id="rect4539-3"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.00000039, 5.00000013;stroke-dashoffset:121.42102814;stroke-opacity:1" />
     </g>
   </g>
 </svg>
